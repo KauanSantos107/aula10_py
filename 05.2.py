@@ -21,6 +21,6 @@ for i in range(1, 101):
     elif voto == 6:
         contador6 += 1
     else:
-        print("VOCÊ É PETISTA SEU GAY DE MERDA!!!!!!!!!!!!!")
+        print("Erro!")
     
 print(f"Candidato 1 teve {contador} votos, Candidato 2 teve {contador2} votos, Candidato 3 teve {contador3} votos e o Candidato 4 teve {contador4} votos.\n A quantidade de votos nulos nessa eleição teve {contador5} votos e de votos em branco {contador6}.")
